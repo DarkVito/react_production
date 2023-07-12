@@ -1,6 +1,7 @@
-import { Navbar } from "./ui/Navbar";
-import { ThemeSwitcher } from "widgets/ThemeSwitcher";
+import { ThemeSwitcher } from 'widgets/ThemeSwitcher';
+import { Navbar } from './ui/Navbar';
+
 export {
     Navbar,
-    ThemeSwitcher
-}
+    ThemeSwitcher,
+};
